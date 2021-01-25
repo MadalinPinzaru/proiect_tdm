@@ -63,7 +63,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "upset@filmreviews.org"
+email = "pinzaru.madalin@gmail.com"
 phone = "888 888 88 88"
 
 # Address
@@ -71,7 +71,6 @@ phone = "888 888 88 88"
 address = {street = "Zaharia Stanca 7", city = "Brasov", region = "RO", postcode = "500190", country = "Romania", country_code = "RO"}
 
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "45.67304385349351", longitude = "25.614192327259957"}
 
 # Office hours
