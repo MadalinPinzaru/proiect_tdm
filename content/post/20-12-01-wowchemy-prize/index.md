@@ -1,14 +1,21 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Outside the wire
+date: 2021-01-09
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+It is the year 2036. Eastern Europe is engulfed in civil war—the sort of civil war that enables filmmakers to keep the ideologies vague and the names sinister-sounding. Drone operator Lieutenant Harp  disobeys a direct order to take out a deadly truck. He saves about three dozen soldiers but two fighting men perish. There is bad feeling all around.
 
 <!--more-->
+![Outside the wire - Cover](./outside-the-wire.jpg)
+He’s sent back to training, but he’s really on a secret mission, working with one Captain Leo (Anthony Mackie). Like Harp, he’s Black, and like Harp, he cusses a bit. Unlike Harp, he’s a cyborg—“fourth generation biotech and I’m giving you 60 seconds to deal with it.”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Leaving base, they witness some soldiers heaping abuse on a more obvious robot soldier—these dumb guys are called “Gumps,” get it?—and Leo looks on ruefully. Once back in Eastern Europe, and on the hunt for a madman named Victor Koval (what did I tell you about the names) who’s after some nuclear codes (plus ça change in semi-hacky war/espionage movies), Leo demonstrates some advantages of not being human. He operates with a kind of realpolitik—doesn’t act out of sentiment, stays focused on the immediate. Or so it seems. “I have the ability to break the rules,” he tells Hart. He likes Hart because of his drone decision by the way—says he needs someone who can “think outside the box.” Paradoxically, though, he tells Hart, “Maybe humans aren’t emotional enough, Lieutenant.”
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Directed with a brisk not-quite chaos cinema style by Mikael Håfström from a script by Rowan Athale and Rob Yescombe, the movie waits a good 50 minutes before showing Leo as a real fighting machine but doesn’t take it too far. Yeah, he can kick multiple asses with haste but he doesn’t run like a Robert Patrick model Terminator or anything. (Glenn Close in “Hillbilly Elegy” would be unimpressed.) As for cerebral endowments, despite being in Eastern Europe Leo doesn’t have to be as much of a super linguist as you’d expect from a robot because in THIS Eastern Europe all but a very few speak perfect English as a default.
+
+
+The fact that the two characters are black is a red herring; race doesn’t really figure here even as a metaphor. Instead, the movie’s plot and the interaction of the two characters focuses on the robot’s true mission, and the conclusions to which his autonomous robot-thought has brought him. When Leo introduces Hart to an Irish “resistance” fighter, the Lieutenant begins to suspect that, while a product of American ingenuity, Leo might have intentions very contrary to American orders. And indeed, it turns out that Leo, like Hebrew National, is set on answering to a higher authority, one with which fans of “Star Trek: The Wrath of Khan” will be quite familiar.
+
+
+And so we are treated to almost every cliché in the book, complete with dialogue like “Sometimes you gotta get dirty to see the real change” and “Humans could learn to do better” and a countdown readout in big red letters at the movie’s climax. The visual effects are decent, the cast is better than decent, and that’s all, folks.

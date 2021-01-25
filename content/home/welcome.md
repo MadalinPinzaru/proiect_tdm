@@ -1,12 +1,8 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
+widget: hero  
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Film Reviews"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +13,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+A website where you can find out all the news about the newest movies that have been launched and our reviews about them.

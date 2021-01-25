@@ -1,35 +1,36 @@
 ---
 # Display name
-title: Gheorghe Popescu
+title: Vasile Vizionaru'
+
+# Username (this should match the folder name)
+authors:
+- vasile-vizi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Movie Critic / Reviewer
+role: Professional movie watcher / binger
 
 # Organizations/Affiliations
 organizations:
-- name: Cinema University
+- name: Homeschooled
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am thouroughly intrigued by the art of the cinema and the creative concepts that it implies. I spare no movie.
+bio: I love watching movies on my couch. 
 
 interests:
-- Art
 - Movies
-- Theatre
+- Time wasting techniques
+- Beer & popcorn
 
 education:
   courses:
   - course: Highschool
-    institution: Generic Highschool Name
-    year: 2008
-  - course: University
-    institution: Generic University Name
-    year: 2012
- 
+    institution: Generic Highschool Name 2
+    year: 2005
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,14 +58,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Reviewers
-  - Writers
+  - Viewers
 ---
 
-Gheorghe Popescu is a human being that enjoys watching all types of movies. He will be the first to enter the cinema when a new movie launches and will eat all the popcorn there is. He also enjoys nachos & cheese on Saturdays when he's at the cinema. 
+Vasile Vizionaru' is a simple man that enjoys staying in the front of the TV, or ocasionally in front of the cinema screen, and watch a good movie. He gets his chills from the huge amount of cool beer he drinks as the movie is running. He likes to crack a cold one with the boys in the backyard.
